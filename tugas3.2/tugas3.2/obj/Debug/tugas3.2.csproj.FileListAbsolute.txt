@@ -1,0 +1,11 @@
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\bin\Debug\tugas3.2.exe.config
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\bin\Debug\tugas3.2.exe
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\bin\Debug\tugas3.2.pdb
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3.2.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3._2.Properties.Resources.resources
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3.2.csproj.GenerateResource.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3.2.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3.2.exe
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3.2.pdb
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\tugas3.2\tugas3.2\obj\Debug\tugas3._2.frmtugas.resources
