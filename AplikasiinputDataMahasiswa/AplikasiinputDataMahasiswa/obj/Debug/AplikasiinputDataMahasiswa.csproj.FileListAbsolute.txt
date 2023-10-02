@@ -1,0 +1,21 @@
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\bin\Debug\AplikasiinputDataMahasiswa.exe.config
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\bin\Debug\AplikasiinputDataMahasiswa.exe
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\bin\Debug\AplikasiinputDataMahasiswa.pdb
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.csprojAssemblyReference.cache
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.Form1.resources
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.Properties.Resources.resources
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.csproj.GenerateResource.cache
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.csproj.CoreCompileInputs.cache
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.exe
+E:\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.pdb
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\bin\Debug\AplikasiinputDataMahasiswa.exe.config
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\bin\Debug\AplikasiinputDataMahasiswa.exe
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\bin\Debug\AplikasiinputDataMahasiswa.pdb
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.csproj.SuggestedBindingRedirects.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.Form1.resources
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.Properties.Resources.resources
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.csproj.GenerateResource.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.exe
+C:\Users\L E N O V O\OneDrive\Documents\22.11.4780\AplikasiinputDataMahasiswa\AplikasiinputDataMahasiswa\obj\Debug\AplikasiinputDataMahasiswa.pdb
